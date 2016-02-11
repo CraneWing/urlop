@@ -9,3 +9,11 @@ User Story: When I visit that shortened URL, it will redirect me to my original 
 
 sample at
 https://shurli.herokuapp.com/
+
+some other info
+node package - short
+https://www.npmjs.com/package/short
+
+starting points
+http://www.jameselsey.co.uk/blogs/techblog/an-intro-to-node-js-building-a-url-shortener/
+http://blog.j0.hn/post/45543648162/why-i-wrote-a-url-shortener

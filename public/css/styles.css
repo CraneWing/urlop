@@ -1,0 +1,23 @@
+.container {
+    padding-top: 55px;
+}
+
+header {
+    border: 1px #d4d4d4 solid;
+    border-radius: 8px;
+    height: 160px;
+}
+
+header img {
+    float: left;
+    padding: 15px 0 0 10px;
+}
+
+header h1 {
+    padding-top: 7%;
+}
+
+p {
+    padding-top: 10px;
+    line-height: 1.6em;
+}
