@@ -9,7 +9,7 @@ var express 	= require('express'),
 //require('dotenv').load();
 
 app.use('/public', express.static(process.cwd() + '/public'));
-mongoose.connect('mongodb://localhost/urls');
+mongoose.connect('mongodb://localhost/searches');
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.set('view engine', 'ejs');
